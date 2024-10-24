@@ -1,0 +1,26 @@
+
+body{
+   background-color: rgb(27, 23, 20);
+}
+
+img{
+    height: 500px;
+    width: 500px;
+    object-fit:cover;
+    box-shadow :10px 10px 30px rgba(211, 201, 18, 0.895);
+    
+}
+
+
+  div 
+  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+button{
+   height: 30px;
+   border-radius: 20%;
+   margin-left: 20px;
+}
